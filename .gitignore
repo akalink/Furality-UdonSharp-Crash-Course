@@ -81,3 +81,4 @@ ProjectVersion.txt
 *.asmdef
 
 !Assets/Panel
+!Assets/Panel/**
